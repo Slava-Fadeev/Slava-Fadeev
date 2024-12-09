@@ -1,4 +1,4 @@
-- 👋 Hi, I'm @SlavaDev20
+- 👋 Hi, I'm @Slava-Fadeev
 - 👀 I'm interested in developing games
 - 🌱 I'm currently learning Unity
 - 😄 Pronouns: He/Him
