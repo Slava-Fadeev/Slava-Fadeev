@@ -1,7 +1,7 @@
 - 👋 Hi, I'm @SlavaDev20
-- 👀 I'm interested in developing games ...
-- 🌱 I'm currently learning Unity ...
-- 😄 Pronouns: He/Him ...
+- 👀 I'm interested in developing games
+- 🌱 I'm currently learning Unity
+- 😄 Pronouns: He/Him
 
 I love making games on GameMaker :D
 
