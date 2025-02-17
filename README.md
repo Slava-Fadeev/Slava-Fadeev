@@ -1,6 +1,6 @@
 - 👋 Hi, I'm @Slava-Fadeev
 - 👀 I'm interested in developing games
-- 🌱 I'm currently learning Unity
+- 🌱 I'm currently learning c++
 - 😄 Pronouns: He/Him
 
 I love making games on GameMaker :D
