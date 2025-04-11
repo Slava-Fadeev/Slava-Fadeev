@@ -1,6 +1,4 @@
-- 👋 Hi, I'm @Slava-Fadeev
-- 👀 I'm interested in developing games and programming
-- 🌱 I'm currently studying c++
+I make games and look in cmd c++
 
 <!---
 SlavaDev20/SlavaDev20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
